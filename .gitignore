@@ -10,3 +10,4 @@ gen
 
 
 *.yml
+node_modules/*
